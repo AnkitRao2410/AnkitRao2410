@@ -26,4 +26,4 @@ I'm a BCA graduate passionate about Python development, web technologies, and bu
 - **GitHub:** https://github.com/AnkitRao2410
 - **LinkedIn:** https://www.linkedin.com/in/ankitrao2410
 
-⭐ Thanks for visiting my profile!
+
